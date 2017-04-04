@@ -12,4 +12,6 @@ Anyone with a UH account can log in by clicking on the login button.  The UH CAS
 
 Users can create profiles to show their major and courses taken.  Users can also list books that they are awilling to sell as well as listings they may be interested in.
 
+![](images/profile.png)
+
 Users can also search for books based on criteria such as major and classes.
