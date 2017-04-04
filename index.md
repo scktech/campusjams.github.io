@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About UH Textbook Exchange](#about-uh-textbook-exchange)
-* [What's Next](#what's-next)
+* [What's Next](#whats-next)
 
 # About UH Textbook Exchange 
 
