@@ -17,3 +17,5 @@ Users can create profiles to show their major and courses taken.  Users can also
 ![](images/profile.png)
 
 Users can also search for books based on criteria such as major and classes.
+
+![](images/search.png)
