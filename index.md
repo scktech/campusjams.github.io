@@ -10,6 +10,8 @@ The home page shows current book listings and login/signup.
 
 Anyone with a UH account can log in by clicking on the login button.  The UH CAS authentication screen then appears and requests your UH account and password.
 
+![](images/caslogin.png)
+
 Users can create profiles to show their major and courses taken.  Users can also list books that they are awilling to sell as well as listings they may be interested in.
 
 ![](images/profile.png)
