@@ -21,6 +21,10 @@ Users can also search for books based on criteria such as major and classes.  Re
 
 ![](images/search.png)
 
+Users can also browse through all listed books.
+
+![](images/directory.png)
+
 # What's Next
 
 * Listing creation page - Allows a user to put up a book for sale with its: title, author, isbn, picture, major/courses required, price.
