@@ -17,7 +17,7 @@ Users can create profiles to show their major and what courses they've taken.  M
 
 ![](images/profile.png)
 
-Users can also search for books based on criteria such as major and classes.
+Users can also search for books based on criteria such as major and classes.  Results will show books that are available for sale based on filters.  Books listed show title, author, ISBN, and price.
 
 ![](images/search.png)
 
