@@ -10,6 +10,11 @@ Our application allows students hide sensitive text messages or images steganogr
 * Encrypt a message using steganography.
 * Decrypt an encrypted message that used steganography.
 
+# Milestones
+
+* Milestone 1
+https://github.com/orgs/scktech/projects/1
+
 # Landing Page
 
 Users with a UH login are able to access the application.
