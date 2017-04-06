@@ -13,16 +13,23 @@ Our application allows students hide sensitive text messages or images steganogr
 # Landing Page
 
 Users with a UH login are able to access the application.
+
 ![](images/landing.png)
 
 Users can create profiles to send and receive messages, and include a little bit of information about themselves.
+
 ![](images/profile.png)
 
 To encrypt a message, users fill out the text box above and can select from four different images.
+
 ![](images/encrypt.png)
 
 To decrypt a message...
 
-Users can find other users to communicate with.  They can specify the user they would like to contact by entering their UH username.
+Users can find other users to communicate with.
+
 ![](images/finduser1.png)
+
+They can specify the user they would like to contact by entering their UH username.
+
 ![](images/finduser2.png)
