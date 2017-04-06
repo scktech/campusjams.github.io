@@ -24,7 +24,9 @@ To encrypt a message, users fill out the text box above and can select from four
 
 ![](images/encrypt.png)
 
-To decrypt a message...
+To decrypt a message, users can place the URL of their encrypted image and have it decrypted.  The decrypted message will appear in the box below.
+
+![](images/decrypt.png)
 
 Users can find other users to communicate with.
 
