@@ -7,8 +7,8 @@ Our application allows students hide sensitive text messages or images steganogr
 # Features
 * Create a profile to send and receive messages.
 * Find other users to send private messages.
-* Encrypt a message using stegonography.
-* Decrypt an encrypted message that used stegonongraphy.
+* Encrypt a message using steganography.
+* Decrypt an encrypted message that used steganography.
 
 # Landing Page
 
@@ -20,7 +20,7 @@ Users can create profiles to send and receive messages, and include a little bit
 
 ![](images/profile.png)
 
-To encrypt a message, users fill out the text box above and can select from four different images.
+To encrypt a message, users fill out the text box above and can select from four different images.   A steganographic image is then generated.
 
 ![](images/encrypt.png)
 
