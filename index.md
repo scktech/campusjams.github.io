@@ -12,8 +12,8 @@ Our application allows students hide sensitive text messages or images steganogr
 
 # Milestones
 
-* [Milestone 1: Mockup and deployment](https://github.com/orgs/scktech/projects/1)
-* [Milestone 2: Site function implementation](https://github.com/orgs/scktech/projects/2)
+* [Milestone 1: Mockup and deployment](https://github.com/scktech/Stego/projects/1)
+* [Milestone 2: Site function implementation](https://github.com/scktech/Stego/projects/2)
 
 # Landing Page
 
