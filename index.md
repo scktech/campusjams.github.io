@@ -1,29 +1,29 @@
 # Table of contents
 
-* [About UH Textbook Exchange](#about-uh-textbook-exchange)
+* [About UH Stego](#about-uh-stego)
 * [What's Next](#whats-next)
 
-# About UH Textbook Exchange 
+# About UH Stego 
 
-Finding a reasonable price on textbooks can be difficult.  Although buying textbooks from your friends might be of some help, there is a large body of students at UH Manoa who could have exactly what you're looking for.  Textbook Exchange is a Meteor application providing a means for UH Manoa students to communicate their textbook needs, whether they are selling or buying.
+UH students commonly send text messages to communicate, but sometimes SMS or instant chat is not secure enough. Truly sensitive data should be transported or hidden to ensure that it is not left exposed to nosey third parties.
 
-The home page shows current book listings and login/signup.
-
-Anyone with a UH account can log in by clicking on the login button.  The UH CAS authentication screen then appears and requests your UH account and password.
-
-![](images/caslogin.png)
+Our application allows students hide sensitive text messages or images steganographically. These doctored images can be used a transport media to deliver messages without raising any suspicion or attracting unwanted attention. Once in the hands of the proper recipient, the hidden message can be extracted.
 
 Users can create profiles to show their major and what courses they've taken.  Majors/Courses will be used to help find books through a search using a filter.
 
 ![](images/profile.png)
 
+![](images/encrypt.png)
+
 Users can also search for books based on criteria such as major and classes.  Results will show books that are available for sale based on filters.  Books listed show title, author, ISBN, and price.
 
-![](images/search.png)
+![](images/finduser1.png)
 
 Users can also browse through all listed books.
 
-![](images/directory.png)
+![](images/finduser2.png)
+
+
 
 # What's Next
 
