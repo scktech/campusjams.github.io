@@ -16,18 +16,22 @@ Users with a UH login are able to access the application.
 
 ![](images/landing.png)
 
+# Profile Page
 Users can create profiles to send and receive messages, and include a little bit of information about themselves.
 
 ![](images/profile.png)
 
+# Encrypt Page
 To encrypt a message, users fill out the text box above and can select from four different images.   A steganographic image is then generated.
 
 ![](images/encrypt.png)
 
+# Decrypt Page
 To decrypt a message, users can place the URL of their encrypted image and have it decrypted.  The decrypted message will appear in the box below.
 
 ![](images/decrypt.png)
 
+# Find User Page
 Users can find other users to communicate with.
 
 ![](images/finduser1.png)
