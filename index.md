@@ -5,10 +5,10 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
+* [UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # About UH Stego 
 
-[UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 UH students commonly send text messages to communicate, but sometimes SMS or instant chat is not secure enough. Truly sensitive data should be transported or hidden to ensure that it is not left exposed to nosey third parties.
 
