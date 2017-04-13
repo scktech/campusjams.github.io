@@ -75,6 +75,8 @@ Milestone 1 was implemented as [Stego GitHub Milestone M1](https://github.com/sc
 
 ![](images/m1_projects.png)
 
-Milestone 1 consisted of six issues, and progress was managed via the [Stego GitHub Milestone M1](https://github.com/scktech/Stego/projects/1):
+Milestone 1 consisted of six issues, and progress was managed via the [Stego GitHub Milestone M1](https://github.com/scktech/Stego/projects/1).  During the M1 Milestone, each group member was assigned two pages to mockup for development of UH Stego.
 
 ![](images/m1_issues.png)
+
+## Milestone 2: Site Function Development
