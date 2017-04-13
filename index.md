@@ -1,10 +1,10 @@
 # Table of Contents
 
 * [About UH Stego](#about-uh-stego)
+* [Features](#features)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
-* [Features](#features)
 
 # About UH Stego 
 
@@ -80,3 +80,4 @@ Milestone 1 consisted of six issues, and progress was managed via the [Stego Git
 ![](images/m1_issues.png)
 
 ## Milestone 2: Site Function Development
+COMING SOON!!!
