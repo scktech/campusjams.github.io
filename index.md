@@ -82,6 +82,10 @@ Milestone 1 consisted of six issues, and progress was managed via the [Stego Git
 
 ![](images/m1_issues.png)
 
+Below is the commit history for UH Stego.  Each team member was responsible for creating their own branch to update their mockups.  There were additional commits due to commit or merge errors.
+
+![](images/commit_history1.png)
+
 ## Milestone 2: Site Function Development
 
 This milestone started on April 12, 2017 and is currently ongoing.
