@@ -70,3 +70,11 @@ The goal of Milestone 1 was to create a set of HTML pages that provided a mockup
 <img width="200px" src="images/finduser1.png"/>
 <img width="200px" src="images/encrypt.png"/>
 <img width="200px" src="images/decrypt.png"/>
+
+Milestone 1 was implemented as [Stego GitHub Milestone M1](https://github.com/scktech/Stego/projects/1):
+
+![](images/m1_projects.png)
+
+Milestone 1 consisted of six issues, and progress was managed via the [Stego GitHub Milestone M1](https://github.com/scktech/Stego/projects/1):
+
+![](images/m1_issues.png)
