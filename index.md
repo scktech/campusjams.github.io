@@ -38,9 +38,10 @@ Users can create profiles to send and receive messages, and include a little bit
 ![](images/profile.png)
 
 # Encrypt Page
-To encrypt a message, users fill out the text box above and can select from four different images.   A steganographic image is then generated.
+To encrypt a message, users fill out the text box above to create a message.  A user can then choose an image file to hide their message in.  A steganographic image is then generated after clicking the submit button.
 
 ![](images/encrypt.png)
+![](images/encrypt_choose.png)
 
 # Decrypt Page
 To decrypt a message, users can place the URL of their encrypted image and have it decrypted.  The decrypted message will appear in the box below.
