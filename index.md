@@ -2,8 +2,8 @@
 
 * [About UH Stego](#about-uh-stego)
 * [Development history](#development-history)
- * [Milestone 1: Mockup and deployment](https://github.com/scktech/Stego/projects/1)
- * [Milestone 2: Site function implementation](https://github.com/scktech/Stego/projects/2)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Site function development](#milestone-2-site-function-development)
 * [Features](#features)
 
 # About UH Stego 
@@ -53,3 +53,20 @@ Users can find other users to communicate with.
 They can specify the user they would like to contact by entering their UH username.
 
 ![](images/finduser2.png)
+
+# Development History
+
+The development process for UH Stego conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s17/modules/project-management/) practices. Development consisted of Milestones which contained 2-3 days worth of work.  Github tasks were utilized to keep track of tasks during the completion of a milestone.  The following documents the development history of UH Stego.
+
+## Milestone 1: Mockup Development
+
+This milestone started on March 29, 2017 and ended on April 12, 2017.
+
+The goal of Milestone 1 was to create a set of HTML pages that provided a mockup of the pages to be used in the application.  Mockup pages were developed within Meteor.  Each page acted as a template to outline the functions that needed to be implemented in UH Stego.  The following are the mockup pages that were created during M1:
+
+<img width="200px" src="images/login.png"/>
+<img width="200px" src="images/landing.png"/>
+<img width="200px" src="images/profile.png"/>
+<img width="200px" src="images/finduser1.png"/>
+<img width="200px" src="images/encrypt.png"/>
+<img width="200px" src="images/decrypt.png"/>
