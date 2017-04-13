@@ -80,4 +80,9 @@ Milestone 1 consisted of six issues, and progress was managed via the [Stego Git
 ![](images/m1_issues.png)
 
 ## Milestone 2: Site Function Development
-COMING SOON!!!
+
+This milestone started on April 12, 2017 and is currently ongoing.
+
+The goal of Milestone 2 is to implement the functions of the site.  This includes the encryption and decryption of messages, as well as being able to find users by their name or UH username.  The following are tasks that are expected to be completed in Milestone 2:
+
+![](images/m2_projects.png)
