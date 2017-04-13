@@ -1,3 +1,11 @@
+# Table of Contents
+
+* [About UH Stego](#about-uh-stego)
+* [Development history](#development-history)
+ * [Milestone 1: Mockup and deployment](https://github.com/scktech/Stego/projects/1)
+ * [Milestone 2: Site function implementation](https://github.com/scktech/Stego/projects/2)
+* [Features](#features)
+
 # About UH Stego 
 
 UH students commonly send text messages to communicate, but sometimes SMS or instant chat is not secure enough. Truly sensitive data should be transported or hidden to ensure that it is not left exposed to nosey third parties.
@@ -10,14 +18,15 @@ Our application allows students hide sensitive text messages or images steganogr
 * Encrypt a message using steganography.
 * Decrypt an encrypted message that used steganography.
 
-# Milestones
+# Login Page
 
-* [Milestone 1: Mockup and deployment](https://github.com/scktech/Stego/projects/1)
-* [Milestone 2: Site function implementation](https://github.com/scktech/Stego/projects/2)
+Users are greeted at the landing page with only a login button.  Since UH Stego deals with sensitive information, outsiders should not be able to understand the purpose of the application.  Anyone with a UH account can login to UH Stego.  Upon clicking the login button, the UH CAS authentication screen will appear and request for your UH username and password.
+
+![](images/login.png)
 
 # Landing Page
 
-Users with a UH login are able to access the application.
+Once logged in, users are greeted with information about UH Stego and a top menu filled with options.
 
 ![](images/landing.png)
 
