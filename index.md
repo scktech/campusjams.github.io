@@ -82,7 +82,7 @@ Milestone 1 consisted of six issues, and progress was managed via the [Stego Git
 
 ![](images/m1_issues.png)
 
-Below is the commit history for UH Stego.  Each team member was responsible for creating their own branch to update their mockups.  There were additional commits due to commit or merge errors.
+Below is the commit history for UH Stego.  Each team member was responsible for creating their own branch to update their mockups.
 
 ![](images/commit_history1.png)
 
