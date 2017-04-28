@@ -89,10 +89,15 @@ Below is the commit history for UH Stego.  Each team member was responsible for 
 
 ## Milestone 2: Site Function Development
 
-This milestone started on April 12, 2017 and ended on April 27, 2017.
+This milestone started on April 12, 2017 and is currently ongoing.
 
 The goal of Milestone 2 is to implement the functions of the site.  This includes the encryption and decryption of messages, as well as being able to find users by their name or UH username.  The following are tasks that are expected to be completed in [Milestone 2](https://github.com/scktech/Stego/projects/2):
 
 ![](images/m2_projects.png)
+
+![](images/profile-M2.png)
+The profile page was implemented. The page adds new profiles to the ProfilesCollection.
+![](images/encrypt-M2.png)
+The encrypt page was updated to include a feature that allows users to send images to one another and an encryption key to decrypt an image.
 
 ## Milestone 3:
