@@ -95,13 +95,21 @@ The goal of Milestone 2 is to implement the functions of the site.  This include
 
 ![](images/m2_projects.png)
 
+The profile page was implemented. The page adds new profiles to the ProfilesCollection.
+
 ![](images/profile-M2.png)
 
-The profile page was implemented. The page adds new profiles to the ProfilesCollection.
+The encrypt page was updated to include a feature that allows users to send images to one another and an encryption key to decrypt an image.
 
 ![](images/encrypt-M2.png)
 
-The encrypt page was updated to include a feature that allows users to send images to one another and an encryption key to decrypt an image.
+Milestone 2 was implemented as [Stego GitHub Milestone M2](https://github.com/scktech/Stego/projects/2):
+
+![](images/project-m2.png)
+
+Below is the commit history for Milestone 2.  Each team member was responsible for creating their own branch to update their mockups.
+
+![](images/network-m2.png)
 
 ## Milestone 3:
 
