@@ -5,7 +5,7 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
-  * [Milestone 3: ](#milestone-3) 
+  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model) 
 * [UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # About UH Stego 
@@ -111,6 +111,6 @@ Below is the commit history for Milestone 2.  Each team member was responsible f
 
 ![](images/network-m2.png)
 
-## Milestone 3:
+## Milestone 3 Connect UI to data model:
 
 This milestone started on April 27, 2017 and is currently ongoing.
