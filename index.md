@@ -5,6 +5,7 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
+  * [Milestone 3: ](#milestone-3) 
 * [UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # About UH Stego 
@@ -94,12 +95,4 @@ The goal of Milestone 2 is to implement the functions of the site.  This include
 
 ![](images/m2_projects.png)
 
-![](images/profile-page.png)
-
-The profile page was implemented and now adds new profiles to the ProfilesCollection.
-
-![](images/encrypt-page.png)
-
-The encrypt page was updated to include a recipient to send to from within the applicaiton and an encryption key. 
-
-
+## Milestone 3:
