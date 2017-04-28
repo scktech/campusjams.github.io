@@ -96,8 +96,11 @@ The goal of Milestone 2 is to implement the functions of the site.  This include
 ![](images/m2_projects.png)
 
 ![](images/profile-M2.png)
+
 The profile page was implemented. The page adds new profiles to the ProfilesCollection.
+
 ![](images/encrypt-M2.png)
+
 The encrypt page was updated to include a feature that allows users to send images to one another and an encryption key to decrypt an image.
 
 ## Milestone 3:
