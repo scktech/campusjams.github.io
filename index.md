@@ -114,3 +114,5 @@ Below is the commit history for Milestone 2.  Each team member was responsible f
 ## Milestone 3 Connect UI to data model:
 
 This milestone started on April 27, 2017 and is currently ongoing.
+
+The goal of Milestone 3 is to begin connecting collections to our pages. This includes linking out profile collections to the encrypted image collection allowing users to search for their encrypted images based off their profile. The following are tasks that are expected to be completed in Milestone 3:
