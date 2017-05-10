@@ -178,8 +178,7 @@ This milestone started on March 29, 2017 and ended on April 12, 2017.
 The goal of Milestone 1 was to create a set of HTML pages that provided a mockup of the pages to be used in the application.  Mockup pages were developed within Meteor.  Each page acted as a template to outline the functions that needed to be implemented in UH Stego.  The following are the mockup pages that were created during M1:
 
 <img width="200px" src="images/login.png"/>
-<img width="200px" src="images/landing.png"/>
-<img width="200px" src="images/profile.png"/>
+<img width="200px" src="images/profile-page.png"/>
 <img width="200px" src="images/finduser1.png"/>
 <img width="200px" src="images/encrypt.png"/>
 <img width="200px" src="images/decrypt.png"/>
