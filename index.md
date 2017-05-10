@@ -54,7 +54,7 @@ To decrypt a message, users can place the URL of their encrypted image and have 
 # Find User Page
 Users can find other users to communicate with.
 
-![](images/finduser1.png)
+![](images/updated_finduser.png)
 
 They can specify the user they would like to contact by entering their UH username.
 
