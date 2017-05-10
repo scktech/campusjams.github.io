@@ -7,7 +7,8 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model) 
+  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
+* [Initial User Study](#initial-user-study)
 * [UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # About UH Stego 
@@ -23,24 +24,24 @@ Our application allows students hide sensitive text messages or images steganogr
 * Decrypt an encrypted message that used steganography.
 
 # Guided Tour
-# Login Page
+## Login Page
 
 Users are greeted at the landing page with only a login button.  Since UH Stego deals with sensitive information, outsiders should not be able to understand the purpose of the application.  Anyone with a UH account can login to UH Stego.  Upon clicking the login button, the UH CAS authentication screen will appear and request for your UH username and password.
 
 ![](images/updated_login.png)
 
-# Home/Landing Page
+## Home/Landing Page
 
 Once logged in, users are greeted with their current profile information.  Users can edit their profile, encrypt a message, or dec
 
 ![](images/home.png)
 
-# Profile Page
+## Profile Page
 Users can create profiles to send and receive messages, and include a little bit of information about themselves.
 
 ![](images/updated_profile.png)
 
-# Encrypt Page
+## Encrypt Page
 To encrypt a message, users fill out the text box above to create a message.  A user can then choose an image file to hide their message in.  A steganographic image is then generated after clicking the submit button.
 
 ![](images/encrypt_upload.png)
@@ -48,12 +49,12 @@ To encrypt a message, users fill out the text box above to create a message.  A 
 The orginal image will then appear, next to its steganographic double.  Users can then download the image to send to others or keep for personal use.
 ![](images/encrypt_download.png)
 
-# Decrypt Page
+## Decrypt Page
 To decrypt a message, users can upload the image that they received, and decrypt the message using the button below.  The decrypted message will appear in the text box to the side.
 
 ![](images/decrypt.png)
 
-# Find User Page
+## Find User Page
 Users can find other users to communicate with.
 
 ![](images/updated_finduser.png)
@@ -232,3 +233,15 @@ Details on Project progress can be found here: https://github.com/scktech/Stego/
 Below is the commit history for Milestone 3.  Each team member was responsible for assisting with the clean up of pages and finalizing the project.
 
 ![](images/m3_commits.png)
+
+# Initial User Study
+
+We surveyed five ICS students to test our app.  We monitored the students and guided them through the site, and allowed them to provide feedback and ask questions about the functionality of our app.
+
+## Feedback
+* Steganography feature seems useful, but only if vital information needs to be shared.
+* Encrypting and decrypting a message is satisfying and impressive to see.
+* App is straight-forward and accomplishes the task of hiding a message in a photo.
+* Encryption/decryption key would be impressive to implement.
+* Filtering directory to find specific users would be nice.
+* In-house messaging would be nice to have.
