@@ -17,6 +17,10 @@ UH students commonly send text messages to communicate, but sometimes SMS or ins
 
 Our application allows students hide sensitive text messages or images steganographically. These doctored images can be used a transport media to deliver messages without raising any suspicion or attracting unwanted attention. Once in the hands of the proper recipient, the hidden message can be extracted.
 
+You can view UH Stego on Galaxy by clicking on the link below:
+
+[UH Stego](http://uhstego.meteorapp.com/)
+
 # Features
 * Create a profile to send and receive messages.
 * Find other users to send private messages.
