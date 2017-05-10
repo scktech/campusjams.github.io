@@ -19,7 +19,7 @@ Our application allows students hide sensitive text messages or images steganogr
 
 You can view UH Stego on Galaxy by clicking on the link below:
 
-[UH Stego](http://uhstego.meteorapp.com/)
+[UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # Features
 * Create a profile to send and receive messages.
