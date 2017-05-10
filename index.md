@@ -225,7 +225,7 @@ This milestone started on April 27, 2017 and finished on May 09, 2017.
 
 The goal of Milestone 3 is to begin connecting collections to our pages. This includes linking out profile collections to the encrypted image collection allowing users to search for their encrypted images based off their profile. The following are tasks that are expected to be completed in Milestone 3:
 
-Details on Project progress can be found here: https://github.com/scktech/Stego/projects/3
+Details on Project progress can be found here: [Stego Github Milestone M3](https://github.com/scktech/Stego/projects/3)
 
 ![](images/m3_projects.png)
 
