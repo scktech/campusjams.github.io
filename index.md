@@ -244,3 +244,4 @@ We surveyed five ICS students to test our app.  We monitored the students and gu
 * Encryption/decryption key would be impressive to implement.
 * Filtering directory to find specific users would be nice.
 * In-house messaging would be nice to have.
+* App is very basic and lacks depth and complexity; very similar to an image generator rather than a secure communication feature.
