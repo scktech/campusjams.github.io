@@ -2,6 +2,7 @@
 
 * [About UH Stego](#about-uh-stego)
 * [Features](#features)
+* [Developer Guide](#developer-guide)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Site function development](#milestone-2-site-function-development)
@@ -58,7 +59,7 @@ They can specify the user they would like to contact by entering their UH userna
 
 ![](images/finduser2.png)
 
-# Installation
+# Developer Guide
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -221,8 +222,14 @@ Below is the commit history for Milestone 2.  Each team member was responsible f
 
 ## Milestone 3 Connect UI to data model:
 
-This milestone started on April 27, 2017 and is currently ongoing.
+This milestone started on April 27, 2017 and finished on May 09, 2017.
 
 The goal of Milestone 3 is to begin connecting collections to our pages. This includes linking out profile collections to the encrypted image collection allowing users to search for their encrypted images based off their profile. The following are tasks that are expected to be completed in Milestone 3:
 
 Details on Project progress can be found here: https://github.com/scktech/Stego/projects/3
+
+![](images/m3_issues.png)
+
+Below is the commit history for Milestone 3.  Each team member was responsible for assisting with the clean up of pages and finalizing the project.
+
+![](images/m3_commits.png)
