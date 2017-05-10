@@ -235,7 +235,7 @@ Below is the commit history for Milestone 3.  Each team member was responsible f
 
 # Initial User Study
 
-We surveyed five ICS students to test our app.  We monitored the students and guided them through the site, and allowed them to provide feedback and ask questions about the functionality of our app.
+We surveyed five ICS students to test our app.  We monitored the students and guided them through the site, and allowed them to provide feedback and ask questions about the functionality of our app.  Based on their comments, we compiled and listed them below:
 
 ## Feedback
 * Steganography feature seems useful, but only if vital information needs to be shared.
