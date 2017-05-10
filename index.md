@@ -43,11 +43,13 @@ Users can create profiles to send and receive messages, and include a little bit
 # Encrypt Page
 To encrypt a message, users fill out the text box above to create a message.  A user can then choose an image file to hide their message in.  A steganographic image is then generated after clicking the submit button.
 
-![](images/encrypt.png)
-![](images/encrypt_choose.png)
+![](images/encrypt_upload.png)
+
+The orginal image will then appear, next to its steganographic double.  Users can then download the image to send to others or keep for personal use.
+![](images/encrypt_download.png)
 
 # Decrypt Page
-To decrypt a message, users can place the URL of their encrypted image and have it decrypted.  The decrypted message will appear in the box below.
+To decrypt a message, users can upload the image that they received, and decrypt the message using the button below.  The decrypted message will appear in the text box to the side.
 
 ![](images/decrypt.png)
 
@@ -55,10 +57,6 @@ To decrypt a message, users can place the URL of their encrypted image and have 
 Users can find other users to communicate with.
 
 ![](images/updated_finduser.png)
-
-They can specify the user they would like to contact by entering their UH username.
-
-![](images/finduser2.png)
 
 # Developer Guide
 
