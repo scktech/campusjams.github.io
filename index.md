@@ -2,6 +2,7 @@
 
 * [About UH Stego](#about-uh-stego)
 * [Features](#features)
+* [Guided Tour](#guided-tour)
 * [Developer Guide](#developer-guide)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
@@ -10,7 +11,6 @@
 * [UH Stego on Galaxy](http://uhstego.meteorapp.com/)
 
 # About UH Stego 
-
 
 UH students commonly send text messages to communicate, but sometimes SMS or instant chat is not secure enough. Truly sensitive data should be transported or hidden to ensure that it is not left exposed to nosey third parties.
 
@@ -22,22 +22,23 @@ Our application allows students hide sensitive text messages or images steganogr
 * Encrypt a message using steganography.
 * Decrypt an encrypted message that used steganography.
 
+# Guided Tour
 # Login Page
 
 Users are greeted at the landing page with only a login button.  Since UH Stego deals with sensitive information, outsiders should not be able to understand the purpose of the application.  Anyone with a UH account can login to UH Stego.  Upon clicking the login button, the UH CAS authentication screen will appear and request for your UH username and password.
 
-![](images/login.png)
+![](images/updated_login.png)
 
-# Landing Page
+# Home/Landing Page
 
-Once logged in, users are greeted with information about UH Stego and a top menu filled with options.
+Once logged in, users are greeted with their current profile information.  Users can edit their profile, encrypt a message, or dec
 
-![](images/landing.png)
+![](images/home.png)
 
 # Profile Page
 Users can create profiles to send and receive messages, and include a little bit of information about themselves.
 
-![](images/profile.png)
+![](images/updated_profile.png)
 
 # Encrypt Page
 To encrypt a message, users fill out the text box above to create a message.  A user can then choose an image file to hide their message in.  A steganographic image is then generated after clicking the submit button.
