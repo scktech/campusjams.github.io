@@ -228,7 +228,7 @@ The goal of Milestone 3 is to begin connecting collections to our pages. This in
 
 Details on Project progress can be found here: https://github.com/scktech/Stego/projects/3
 
-![](images/m3_issues.png)
+![](images/m3_projects.png)
 
 Below is the commit history for Milestone 3.  Each team member was responsible for assisting with the clean up of pages and finalizing the project.
 
